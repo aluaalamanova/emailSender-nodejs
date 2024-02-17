@@ -10,7 +10,7 @@ Follow these steps to run the application:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/email-sender.git
+git clone https://github.com/aluaalamanova/emailSender-nodejs.git
 ```
 2. Install needed dependencies:
 ```
